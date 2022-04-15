@@ -1,2 +1,2 @@
-# Bit
+# BitUI
 Vue Components UI
